@@ -311,7 +311,7 @@ a.skip:focus{
 @media screen and (max-width: 480px){
 /* for mobile version */
     body{
-        font-family: "Poppins", sans-serif;
+        font-family: "Open Sans", sans-serif;
     }
 
     .grid{
