@@ -1,5 +1,5 @@
 body{
-    font-family: poppins, helvetica;
+    font-family: "poppins", helvetica;
     color: #323232;
 	background-color: white;
 	font-size: 125%;
@@ -310,7 +310,9 @@ a.skip:focus{
 
 @media screen and (max-width: 480px){
 /* for mobile version */
-
+    body{
+        font-family: "poppins", helvetica;
+    }
 
     .grid{
         display: flex;
